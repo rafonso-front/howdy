@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "controle-projetos-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/controleProjetos/ControleProjetosWebPart.js",
+          "manifest": "./src/webparts/controleProjetos/ControleProjetosWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ControleProjetosWebPartStrings": "lib/webparts/controleProjetos/loc/{locale}.js"
+  }
+}

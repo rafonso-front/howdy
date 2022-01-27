@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "Howdy",
+    "id": "8eb33d66-790f-49ff-a53a-2a3145ef6cc6",
+    "version": "1.0.0.73",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/Howdy.sppkg"
+  }
+}

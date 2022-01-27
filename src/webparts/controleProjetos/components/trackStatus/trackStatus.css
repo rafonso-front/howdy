@@ -1,0 +1,23 @@
+.itens-track {
+    padding: 3%;
+}
+.row-track {
+    clear: both;
+    overflow: auto;
+}
+
+.row-track >div {
+    float: left;
+    width: 24%;
+}
+.row-track.th {
+    font-weight: bold;
+}
+.row-track.zeroitens {
+    padding-top: 12px;
+}
+.demanda-nome {
+    margin-bottom: 5%;
+    font-weight: bold;
+    font-size: 18px;
+}

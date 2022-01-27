@@ -1,0 +1,189 @@
+.linha-Check .Obrigatorio button.ms-Checkbox {
+    margin: 0px auto !important;
+    width: 100%;
+    position: absolute;
+    left: 0px;
+    height: 36px;
+    z-index: 999;
+    bottom: -1px;
+    background-color: #fce8e459 !important;
+}
+.CanvasToolboxHint:hover, .customAddFields.CanvasToolboxHint, .customAddFields .CanvasToolboxHint-plusButtonSection {
+    opacity: 1!important;
+    }
+    .customAddFields button.ms-Button {
+    opacity: 0;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    z-index: 9999;
+    }
+    .customAddFields i {
+    font-style: normal;
+    width: 100%;
+    height: 100%;
+    display: block;
+    font-size: 21px;
+    line-height: .9;
+    }
+    .leftPanel {background-color: red;height: 100%;}
+    .ms-Panel-content {padding: 0;height: 90vh;}
+    .ms-Panel-commands {position: absolute;z-index: 9999;right: 0;}
+    .ms-Panel-contentInner {top: 1px !important;}
+    .ms-Grid {height: 100%;}
+    .form-containner {height: 99vh;}
+    .ms-Grid-row {height: 100%;}
+    .btn-action {position: absolute;bottom: 8px;right: 0px;}
+    .rightPanel > div{margin: 20px}
+    .rightPanel{width: 100%}
+    .msg-erro{margin-top: 8px}
+    .timedropDown div > div > input {
+    background-color: #f4f4f4;
+    }
+    .anexoLink {
+    padding: 5px 15px;
+    }
+    .listaComentarios{cursor: pointer;background-color: #f4f4f4;padding: 8px;color: #333;overflow: auto;}
+    .comentarioListagem{display: block;background-color: #f4f4f4;overflow: auto;padding-right: 10px;} 
+    .dynamicRow{display: block}
+    .listaComentarioL{float: left;}
+    .listaComentarioR{float: right;} 
+    div#linhaDescricao {position: absolute;bottom: 35px;width: 100%;left: 0;}
+    .linha-Check i.ms-Icon {font-size: 34px;cursor: pointer;position: absolute;margin: 0px auto !important;width: 100%;left: 0;color: black;}
+    .linha-Check i.ms-Icon:hover {
+    opacity: 0.8;
+    zoom: 0.98;
+    }
+    .ms-modal-container {width: 50%;padding: 0%;}
+    .linha-Check {display: block;min-height: 100px;float: left;width: 27%;text-align: center;position: relative;padding: 1%;margin: 2%;}
+    
+    
+    
+    .ms-modal-container > div {
+    display: block;
+    overflow: hidden;
+    text-align: center;
+    padding: 2%;
+    }
+    
+    .linha-Check .selecaoField button.ms-Checkbox {margin: 0px auto !important;width: 100%;position: absolute;left: 0;height: 76px;z-index: 999;top: 0;}
+
+    .linha-Check .selecaoField button.ms-Checkbox label span {display: none;}
+    
+    .linha-Check .selecaoField button.ms-Checkbox label  > div {
+    position: absolute;
+    top: -40px;
+    right: 29%;
+    opacity: 1 !important;
+    background-color: #FFF;
+    }
+    
+    
+    .linha-Check:hover  i.ms-Icon{color: rgb(193, 50, 22) !important}
+    .linha-Check:hover {
+    /* background-color: #fce8e4; */
+    color: rgb(193, 50, 22);
+    }
+    .linha-Check:hover .ms-Checkbox-checkmark {
+    color: rgb(193, 50, 22);
+    opacity: 1;
+    }
+    
+    .linha-Check:hover .is-checked .ms-Checkbox-checkmark {
+    color: #FFF !important
+    }
+    
+    .ms-Dialog-main .ms-Button {
+    float: right;
+    margin: 0px 3% 2% 0px;
+    }
+    
+    .linha-Check .Obrigatorio{
+    position: absolute;
+    bottom: 1px;
+    width: 100%;
+    left: 0;
+}
+
+
+    .linha-Check .is-checked .ms-Checkbox-checkbox{background-color: rgb(174, 45, 19) !important;}
+    .linha-Check button.ms-Checkbox.is-checked {
+    background-color: #fce8e459;
+    }
+    
+    .ms-modal-container .titulo-modal {
+    font-size: 26px;
+    border-bottom: 1px solid #eaeaea;
+    width: 90%;
+    margin: 0 auto;
+    }
+    .customAddFields.CanvasToolboxHint, .CanvasToolboxHint:hover,.customAddFields .CanvasToolboxHint-plusButtonSection{
+    opacity: 1 !important;
+    }
+    
+    .comboboxFake {
+        background-color: #f4f4f4;
+        width: 100%;
+        height: 30px;
+    }
+    
+    .customAddFields button.ms-Button {
+    opacity: 0;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    z-index: 9999;
+    }
+    .customAddFields i{
+    font-style: normal;
+    width: 100%;
+    height: 100%;
+    display: block;
+    font-size: 21px;
+    line-height: 0.9;
+    border: #a6a6a6 solid 2px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background-color: #FFF;
+    font-weight: bold;
+    }
+    .customAddFields i:hover{
+        opacity:1;
+    
+    }
+    
+    .root-339 .ms-Checkbox-checkbox {
+    background-color: rgb(174, 45, 19) !important;
+    }
+    div#relacionado {
+        margin-top: 5px;
+    }
+    #check-relacionado{margin-top: 10px}
+    
+    .clear-left{clear: both;}
+
+.linha-Check .Obrigatorio button.ms-Checkbox label > div {
+    position: absolute;
+    opacity: 1 !important;
+    background-color: #FFF;
+    display: block;
+    right: 0px;
+}
+
+.linha-Check:hover .Obrigatorio button.ms-Checkbox label span{
+    color: #d6725e;
+    opacity: 0.8;
+}
+.linha-Check .Obrigatorio button.ms-Checkbox label span {
+    left: 9px;
+    color: #797271f0;
+    display: block;
+}
+
+
+.Obrigatorio label.ms-Checkbox-label {
+    text-align: center;
+    width: 100%;
+    display: block;
+}

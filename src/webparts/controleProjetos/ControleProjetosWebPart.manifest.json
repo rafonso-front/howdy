@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "8dd50e88-9bee-4a4a-8026-d3df4ae56657",
+  "alias": "Howdy",
+  "componentType": "WebPart",
+
+  "version": "*",
+  "manifestVersion": 2,
+
+ "requiresCustomScript": false,
+
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f77",
+    "group": { "default": "Howdy" },
+    "title": { "default": "Howdy" },
+    "description": { "default": "Howdy" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "Howdy",
+      "typePicker": "Normal",
+      "siteRelativeURL": "",
+      "principalTypeUser": true,
+      "principalTypeSharePointGroup": true,
+      "principalTypeSecurityGroup": false,
+      "principalTypeDistributionList": false,
+      "numberOfItems": 10
+    }
+  }]
+}
